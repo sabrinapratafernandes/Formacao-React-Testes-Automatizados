@@ -44,7 +44,7 @@ Ao posteriormente chamar o comando as configurações definidas no .prettierrc s
     "jsx-a11y"
   ],
 
--> Adicionando config para que i Lint detecte a versão do React
+-> Adicionando config para que o Lint detecte a versão do React
 
 "settings": {
     "react": {
